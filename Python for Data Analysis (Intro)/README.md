@@ -1,5 +1,13 @@
 ## Topics Covered  
 
+### Intro to matplotlib.pyplot
+- Figures and Subplots
+- Saving Plots to File
+- Basic matplotlib Configuration
+
+### Intro to numpy Arrays
+- numpy Arrays
+
 ### Intro to pandas 1  
 - Intro to Series
 - Intro to DataFrame
@@ -23,3 +31,11 @@
 - Data Aggregation
 - Group-wise Operations & Transformations
 - Pivot Tables & Cross-Tabulation
+
+### Intro to pandas 6
+- Date & Time Data Types
+- Time Series Basics
+- Time Zone Handling
+- Periods
+- Resampling and Frequency Conversion
+- Time Series Plotting
