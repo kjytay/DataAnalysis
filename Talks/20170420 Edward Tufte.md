@@ -1,7 +1,7 @@
-**Date/Time:** 20 Apr 2017
-**Location:** Oakland Marriott City Center
-**Speaker:** Edward Tufte
-**Title:** Presenting Data and Information
+**Date/Time:** 20 Apr 2017  
+**Location:** Oakland Marriott City Center  
+**Speaker:** Edward Tufte  
+**Title:** Presenting Data and Information  
 
 ### General Lessons
 * Quotes from authorities lend credibility to your work and help your audience learn the jargon of the field.
